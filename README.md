@@ -9,7 +9,7 @@
 │   │──tools/            # 部分辅助工具脚本<br/>
 
 # 🔧 库安装
-- pip install loggging requests pandas pyautogui requests OpenAI
+- pip install loggging requests pandas pyautogui OpenAI
 
 # ⚠ 模型配置
 使用不同模型，需要根据对应模型的调用方法进行替换。本项目中可替换模型的方法：<br/>

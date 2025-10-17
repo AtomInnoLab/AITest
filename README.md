@@ -12,7 +12,7 @@
 - pip install loggging requests pandas pyautogui requests OpenAI
 
 # ⚠ 模型配置
-使用不同模型，需要根据对应模型的调用方法进行替换。本项目中可替换的模型方法有：<br/>
+使用不同模型，需要根据对应模型的调用方法进行替换。本项目中可替换模型的方法：<br/>
 1、output_code_by_model_step1<br/>
 2、output_code_by_model_step2<br/>
 3、output_element_position_by_image<br/>
